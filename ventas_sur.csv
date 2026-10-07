@@ -1,0 +1,11 @@
+id,departamento,genero,edad,hora,cantidad,valor_unitario,estado,codigo_promocion
+V021,Huila,Femenino,26,8,3,34000,Completado,
+V022,TOLIMA,M,41,13,1,97000,PENDIENTE,
+V023,huila,F,55,18,2,58000,completado,PROMO12
+V024,Nariño,Masculino,,10,4,29000,Devuelto,
+V025,CAUCA,FEMENINO,63,16,2,66000,COMPLETADO,
+V026,tolima,M,37,24,1,132000,Pendiente,
+V027,NARIÑO,F,48,7,3,43000,completado,
+V028,Cauca,masculino,20,22,2,51000,DEVUELTO,PROMO8
+V029,Huila,F,-4,11,5,19500,Completado,
+V030,Tolima,MASCULINO,52,15,1,108000,PENDIENTE,

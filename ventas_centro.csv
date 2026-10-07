@@ -1,0 +1,11 @@
+id,departamento,genero,edad,hora,cantidad,valor_unitario,estado,codigo_promocion
+V001,Bogotá,F,24,9,2,45000,Completado,
+V002,antioquia,M,42,14,1,78000,completado,
+V003,VALLE DEL CAUCA,Femenino,35,18,3,32000,PENDIENTE,PROMO10
+V004,Bogotá,Masculino,,11,2,56000,Completado,
+V005,Cundinamarca,F,67,16,1,91000,Devuelto,
+V006,ANTIOQUIA,M,28,25,4,22000,completado,
+V007,valle del cauca,femenino,51,8,2,64000,Pendiente,
+V008,Boyacá,MASCULINO,19,13,5,18000,COMPLETADO,
+V009,Bogotá,F,44,20,1,125000,Devuelto,PROMO20
+V010,CUNDINAMARCA,M,31,7,3,41000,completado,
